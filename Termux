@@ -1,0 +1,6 @@
+pkg update && pkg upgrade
+pkg install python git zip unzip openjdk-17 autoconf libtool pkg-config cmake libffi libssl
+pip install buildozer cython
+git clone https://github.com/mhdysa/904-downloader.git
+cd 904-downloader
+buildozer android debug
