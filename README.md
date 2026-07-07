@@ -1,6 +1,6 @@
 # 📥 904 Downloader
 
-[![Build APK](https://github.com/yourusername/904-downloader/actions/workflows/build-apk.yml/badge.svg)](https://github.com/yourusername/904-downloader/actions/workflows/build-apk.yml)
+[![Build APK](https://github.com/yourusername/904-downloader/actions/workflows/build-apk.yml/badge.svg)](https://github.com/mhdysa/904-downloader/actions/workflows/build-apk.yml)
 
 A powerful universal downloader application built with Kivy framework.
 
@@ -26,17 +26,17 @@ A powerful universal downloader application built with Kivy framework.
 ## 📥 Download APK
 
 ### Latest Release
-[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg)](https://github.com/yourusername/904-downloader/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg)](https://github.com/mhdysa/904-downloader/releases/latest)
 
 ### Build Status
-[![Build APK](https://github.com/yourusername/904-downloader/actions/workflows/build-apk.yml/badge.svg)](https://github.com/yourusername/904-downloader/actions/workflows/build-apk.yml)
+[![Build APK](https://github.com/mhdysa/904-downloader/actions/workflows/build-apk.yml/badge.svg)](https://github.com/mhdysa/904-downloader/actions/workflows/build-apk.yml)
 
 ## 🚀 Quick Start
 
 ### Local Development
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/904-downloader.git
+git clone https://github.com/mhdysa/904-downloader.git
 cd 904-downloader
 
 # Install dependencies
