@@ -9,9 +9,8 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04  # استفاده از نسخه قدیمی‌تر اوبونتو
     
-    # راه‌حل موقت برای رفع خطای Node.js
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     
